@@ -1,0 +1,1 @@
+const e={key:"v-fffb8e28",path:"/guide/",title:"vue3 \u8FC7\u6E21\u7B14\u8BB0",lang:"zh-CN",frontmatter:{},excerpt:"",headers:[],git:{updatedTime:null,contributors:[]},filePathRelative:"guide/README.md"};export{e as data};

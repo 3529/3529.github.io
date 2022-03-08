@@ -9,4 +9,5 @@ module.exports = {
       // Public 文件路径
       logo: '/images/icon.png'
     },
+    dest:`./web`
   }
